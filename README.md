@@ -35,3 +35,7 @@ Um projeto simples de **lista de tarefas (To-Do List)** feito com **React** e **
 
 ---
 
+##Testar
+
+- Clicando no link abaixo é possível visualizar e interagir com o projeto:
+- https://to-do-list-self-eta.vercel.app
